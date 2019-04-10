@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="Main_heading">Dungeons and Dragons 5th Edition</string>
+    <string name="Create_button_text">Create New Character</string>
+    <string name="Class_button_text">Class</string>
+    <string name="Race_button_text">Race</string>
+    <string name="Question_Race_Class">Please select your race or class</string>
+    //Character Bio Strings
+    <string name="CharacterBioHeading_str">Character Bio</string>
+    <string name="CharacterName_str">Character Name</string>
+    <string name="CharacterAlignment_str">Character Alignment</string>
+    <string name="CharacterAge_str">Character Age</string>
+    <string name="CharacterHeight_str">Character Height</string>
+    <string name="CharacterWeight_str">Character Weight</string>
+    <string name="CharacterEyeColor_str">Character Eye Color</string>
+    <string name="CharacterSkinColor_str">Character Skin Color</string>
+    <string name="CharacterHairColor_str">Character Hair Color</string>
+    //Character Bio Strings 2
+    <string name="CharacterBio2_str">Character Bio Continued</string>
+    <string name="CharacterPersonalityTraits_str">Character Personality Traits</string>
+    <string name="CharacterIdeals_str">Character Ideals</string>
+    <string name="CharacterBonds_str">Character Bonds</string>
+    <string name="CharacterFlaws_str">Character Flaws</string>
+    //Class Strings
+    <string name="Class_list">Class List</string>
+    <string name="Barbarian_str">Barbarian</string>
+    <string name="Bard_str">Bard</string>
+    <string name="Cleric_str">Cleric</string>
+    <string name="Druid_str">Druid</string>
+    <string name="Fighter_str">Fighter</string>
+    <string name="Monk_str">Monk</string>
+    <string name="Paladin_str">Paladin</string>
+    <string name="Ranger_str">Ranger</string>
+    <string name="Rogue_str">Rogue</string>
+    <string name="Sorcerer_str">Sorcerer</string>
+    <string name="Wizard_str">Wizard</string>
+    <string name="Warlock_str">Warlock</string>
+    //Barbarian Strings
+    <string name="BarbarianTblCol1Heading">Level</string>
+    <string name="BarbarianTblCol2Heading">Proficiency Bonus</string>
+    // Race Strings
+    <string name="Race_list">Race List</string>
+    <string name="Dwarf_str">Dwarf</string>
+    <string name="Elf_str">Elf</string>
+    <string name="Halfling_str">Halfling</string>
+    <string name="Human_str">Human</string>
+    <string name="Dragonborn_str">Dragonborn</string>
+    <string name="Gnome_str">Gnome</string>
+    <string name="HalfElf_str">Half-Elf</string>
+    <string name="HalfOrc_str">Half-Orc</string>
+    <string name="Tiefling_str">Tiefling</string>
+    <string name="Subraces_str">Subraces</string>
+    <string name="AbilityImp_str">Ability Score Improvement</string>
+    <string name="Age_str">Age</string>
+    <string name="Alignment_str">Alignment</string>
+    <string name="Size_str">Size</string>
+    <string name="Speed_str">Speed</string>
+    <string name="OtherTraits_str">Other Traits</string>
+    <string name="Darkvison_str"><b>Darkvision</b> — You have superior vision in dark and dim light within 60ft of
+        you as if it were bright light, and in darkness as if it were dim light. You cannot discern color in darkness,
+        only shades of gray</string>
+    //Dwarf Strings
+    <string name="DwarfScoreInc_str">Constitution + 2</string>
+    <string name="DwarfAge_str">Dwarves mature around 18 years and live roughly 350</string>
+    <string name="DwarfAlignment_str">Dwarves are typically lawful good</string>
+    <string name="DwarfSize_str">Dwarves are roughly 4–5ft tall and weigh around 150lbs. Size Medium</string>
+    <string name="DwarfSpeed_str">Dwarves move at a speed of 25ft. Speed is not reduced by heavy armor</string>
+    <string name="DwarfTrait1_str"><b>Dwarven Resilience</b> — You have advantage on saving throws against poison and resistance against poison damage</string>
+    <string name="DwarfWeapons_str"><b>Dwarven combat training</b> — You are proficient with battleaxes, handaxes, throwing–hammers, and warhammers</string>
+    <string name="DwarfTools_str">Dwarves are proficient with one of the following Artisan\'s tools: Smith\'s tools, Brewer\'s tools, or Mason\'s tools</string>
+    <string name="DwarfTrait2_str"><b>Stonecutting</b> — Dwarves gain double proficiency in the history skill when the skill check is related to stonework</string>
+    <string name="DwarfLanguage_str">Dwarves can speak, read, and write in both Common and Dwarvish</string>
+    <string name="HillDwarf_str">Hill Dwarf</string>
+    <string name="HillDwarfAblImp_str">Wisdom + 1</string>
+    <string name="HillDwarfTrait_str"><b>Dwarven Toughness</b> — Hit point maximum increased by 1, and increases by one again each time you gain a level</string>
+    <string name="MountainDwarf_str">Mountain Dwarf</string>
+    <string name="MountainDwarfAblImp_str">Strength + 2</string>
+    <string name="MountainDwarfTrait_str"><b>Dwarven armor training</b> — You gain proficiency with light and medium armor</string>
+    //Dragonborn strings
+    <string name="DragonbornAblInc1_str">Strength + 2</string>
+    <string name="DragonbornAblInc2_str">Charisma + 1</string>
+    <string name="DragonbornAge_str">Dragonborn mature around 15 years and live roughly 80</string>
+    <string name="DragonbornAlignment_str">Dragonborn tend to extremes. Most are good but some can be terrible villains</string>
+    <string name="DragonbornSize_str">Dragonborn are typically over 6ft tall and around 250lbs. Size medium</string>
+    <string name="DragonbornSpeed_str">Dragonborn move at a speed of 30ft</string>
+    <string name="DragonbornTrait1_str"><b>Draconic Ancestry</b> — You have draconic ancestry. Choose one type of dragon from the Draconic Ancestry table.
+        Your breath weapon and damage resistance are determined by the dragon type, as shown in the table</string>
+    <string name="DragonbornTblHeading1_str">Dragon</string>
+    <string name="DragonbornTblHeading2_str">Damage Type</string>
+    <string name="DragonbornTblHeading3_str">Breath Weapon</string>
+    <string name="DragonbornTblRow1Col1_str">Black</string>
+    <string name="DragonbornTblRow1Col2_str">Acid</string>
+    <string name="DragonbornTblRow1Col3_str">5 by 30 ft. line (Dex save)</string>
+    <string name="DragonbornTblRow2Col1_str">Blue</string>
+    <string name="DragonbornTblRow2Col2_str">Lightning</string>
+    <string name="DragonbornTblRow2Col3_str">5 by 30 ft. line (Dex save)</string>
+    <string name="DragonbornTblRow3Col1_str">Brass</string>
+    <string name="DragonbornTblRow3Col2_str">Fire</string>
+    <string name="DragonbornTblRow3Col3_str">5 by 30 ft. line (Dex save)</string>
+    <string name="DragonbornTblRow4Col1_str">Bronze</string>
+    <string name="DragonbornTblRow4Col2_str">Lightning</string>
+    <string name="DragonbornTblRow4Col3_str">5 by 30 ft. line (Dex save)</string>
+    <string name="DragonbornTblRow5Col1_str">Copper</string>
+    <string name="DragonbornTblRow5Col2_str">Acid</string>
+    <string name="DragonbornTblRow5Col3_str">5 by 30 ft. line (Dex save)</string>
+    <string name="DragonbornTblRow6Col1_str">Gold</string>
+    <string name="DragonbornTblRow6Col2_str">Fire</string>
+    <string name="DragonbornTblRow6Col3_str">15 ft. cone (Dex save)</string>
+    <string name="DragonbornTblRow7Col1_str">Green</string>
+    <string name="DragonbornTblRow7Col2_str">Poison</string>
+    <string name="DragonbornTblRow7Col3_str">15 ft. cone (Dex save)</string>
+    <string name="DragonbornTblRow8Col1_str">Red</string>
+    <string name="DragonbornTblRow8Col2_str">Fire</string>
+    <string name="DragonbornTblRow8Col3_str">15 ft. cone (Dex save)</string>
+    <string name="DragonbornTblRow9Col1_str">Silver</string>
+    <string name="DragonbornTblRow9Col2_str">Cold</string>
+    <string name="DragonbornTblRow9Col3_str">15 ft. cone (Dex save)</string>
+    <string name="DragonbornTblRow10Col1_str">White</string>
+    <string name="DragonbornTblRow10Col2_str">Cold</string>
+    <string name="DragonbornTblRow10Col3_str">15 ft. cone (Dex save)</string>
+    <string name="DragonbornTrait2_str"><b>Breath Weapon</b> – You can use your action to exhale destructive energy.
+        Your draconic ancestry determines the size, shape, and damage type of the exhalation. When you use your breath weapon,
+        each creature in the area of the exhalation must make a saving throw, the type of which is determined by your draconic ancestry.
+        The DC for this saving throw equals 8 + your Constitution modifier + your proficiency bonus.
+        A creature takes 2d6 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d6 at 6th level,
+        4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can’t use it again until you complete a short or long rest.</string>
+    <string name="DragonbornTrait3_str"><b>Damage Resistance</b> — You have resistance to the damage type associated with your draconic ancestry</string>
+    <string name="DragonbornLang_str">Dragonborn can speak, read, and write in Common and Draconic</string>
+    //Elf Strings
+    <string name="ElfAblImp_str">Dexterity + 2</string>
+    <string name="ElfAge_str">Elves mature around 18 years and live around 750</string>
+    <string name="ElfAlignment_str">Elves tend to enjoy the lighter aspects of chaos and are often good</string>
+    <string name="ElfSize_str">Elves are typically between 5–6ft tall and have slender builds. Size medium</string>
+    <string name="ElfSpeed_str">Elves move at a speed of 30ft</string>
+    <string name="ElfTrait1_str"><b>Keen Senses</b> — You have proficiency in the Perception skill</string>
+    <string name="ElfTrait2_str"><b>Fey Ancestry</b> — You have advantage on saving throws against being charmed, and magic can\'t put your to sleep</string>
+    <string name="ElfTrait3_str"><b>Trance</b> — Elves don’t need to sleep. Instead they meditate deeply remaining semiconscious for 4 hours a day. While meditating,
+        you can dream after a fashion; such dreams are actually mental exercises that have become reflexive through years of practice.
+        After resting this way, you gain the same benefit that a human does from 8 hours of sleep</string>
+    <string name="ElfLang_str">Elves can speak, read, and write in Common and Elvish</string>
+    <string name="HighElf_str">High Elf</string>
+    <string name="HighElfAblImp_str">Intelligence + 1</string>
+    <string name="HighElfTrait1_str"><b>Elf Weapon Training</b> — You have proficiency with the longsword, shortsword, shortbow, and longbow</string>
+    <string name="HighElfTrait2_str"><b>Cantrip</b> — You know one cantrip of your choise from the wizard spell list. Intelligence is your spellcasting ability for it</string>
+    <string name="HighElfLang_str">You can speak, read, and write one extra language of your choice</string>
+    <string name="WoodElf_str">Wood Elf</string>
+    <string name="WoodElfAblImp_str">Wisdom + 1</string>
+    <string name="WoodElfTrait1_str"><b>Elf Weapon Training</b> — You have proficiency with the longsword, shortsword, shortbow, and longbow</string>
+    <string name="WoodElfTrait2_str"><b>Fleet of Foot</b> — Your base walking speed is increased to 35</string>
+    <string name="WoodElfTrait3_str"><b>Mask of the Wild</b> — You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena</string>
+    <string name="DarkElf_str">Dark Elf(Drow)</string>
+    <string name="DarkElfAblImp_str">Charisma + 1</string>
+    <string name="DarkElfTrait1_str"><b>Superior Darkvision</b> — Darkvision has a radius of 120ft</string>
+    <string name="DarkElfTrait2_str"><b>Sunlight Sensitivity</b> — You have disadvantage on attack rolls and wisdom(perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight</string>
+    <string name="DarkElfTrait3_str"><b>Drow Magic</b> — You know the dancing lights cantrip. When you reach 3rd level, you can cast faerie fire spell once per day. When you reach 5th level,
+        you can also cast the darkness spell once per day. Charisma is your spellcasting ability for this spells</string>
+    <string name="DarkElfTrait4_str"><b>Drow Weapon Training</b> — You have proficiency with rapiers, shortswords, and hand crossbows</string>
+    // Halfling Strings
+</resources>
